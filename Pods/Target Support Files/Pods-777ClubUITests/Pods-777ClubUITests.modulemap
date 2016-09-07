@@ -1,0 +1,6 @@
+framework module Pods_777ClubUITests {
+  umbrella header "Pods-777ClubUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
